@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Documents/Work/TRACE/app/page.tsx"],"sourcesContent":["export default function Home() {\r\n  return (\r\n    <main className=\"flex min-h-screen flex-col items-center justify-center p-24\">\r\n      <div className=\"text-center\">\r\n        <h1 className=\"text-4xl font-bold mb-4\">Trace Engine</h1>\r\n        <p className=\"text-xl text-gray-600 mb-8\">\r\n          Commerce reconciliation and attribution analysis\r\n        </p>\r\n        <a\r\n          href=\"/api/analyze\"\r\n          className=\"inline-block px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700\"\r\n        >\r\n          View Analysis Results\r\n        </a>\r\n      </div>\r\n    </main>\r\n  );\r\n}\r\n"],"names":["Home","className","href"],"mappings":";;;;;;AAAe,SAASA;IACtB,qBACE,8OAAC;QAAKC,WAAU;kBACd,cAAA,8OAAC;YAAIA,WAAU;;8BACb,8OAAC;oBAAGA,WAAU;8BAA0B;;;;;;8BACxC,8OAAC;oBAAEA,WAAU;8BAA6B;;;;;;8BAG1C,8OAAC;oBACCC,MAAK;oBACLD,WAAU;8BACX;;;;;;;;;;;;;;;;;AAMT"}}]
+}
